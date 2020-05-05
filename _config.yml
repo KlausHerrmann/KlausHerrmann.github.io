@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Klaus Herrmann (Ph.D.)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Klaus Herrmann"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://KlausHerrmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "KlausHerrmann/KlausHerrmann.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -78,16 +78,16 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author Post-doctoral researcher under the supervision of <a href="https://www.math.uwaterloo.ca/~mhofert/">Marius Hofert</a> (<a href="https://uwaterloo.ca/statistics-and-actuarial-science/">University of Waterloo</a>) and <a href="https://www.math.mcgill.ca/neslehova/">Johanna G. Nešlehová</a> (<a href="https://www.mcgill.ca/mathstat/">McGill</a>)
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Klaus Herrmann"
+  avatar           : "KlausHerrmann.jpg"
+  bio              : Department of Mathematics<br/>Faculty of science<br/>Université de Sherbrooke<br/>2500, boul. de l'Université<br/>Sherbrooke (Québec)<br/>Canada J1K 2R1<br/>
+  location         : #"Montréal, QC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "Klaus.Herrmann@usherbrooke.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "KlausHerrmann"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8044-5717"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

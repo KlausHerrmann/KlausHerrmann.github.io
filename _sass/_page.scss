@@ -399,3 +399,15 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+//ol li {
+  //background: #cce5ff;
+  //margin: 5px;
+  //list-style-type:none
+//}
+
+.no_bullet_list li {
+  //background: #cce5ff;
+  //margin: 5px;
+  list-style-type:none
+}
