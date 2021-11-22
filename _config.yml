@@ -310,8 +310,7 @@ compress_html:
   ignore:
     envs: development
 
-
-
+theme: jekyll-theme-cayman
 
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:
@@ -323,9 +322,5 @@ compress_html:
 #
 # for me, this line reads:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
-staticman_url: https://${bridge_app_name}.herokuapp.com/v2/entry/${github-username}/${blog-repo}/master/comments
-
-
-
-
+staticman_url: https://staticman-klausherrmann.herokuapp.com/v2/entry/KlausHerrmann/KlausHerrmann.github.io/master/comments
 
