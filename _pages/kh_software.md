@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Open source projects
-<ul class="no_bullet_list">
-<li>pwdElephant</li>
-</ul> 
-{: reversed="reversed"}
+## multIntTestFunc
+
 
