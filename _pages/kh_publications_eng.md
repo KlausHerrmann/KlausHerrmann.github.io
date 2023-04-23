@@ -23,3 +23,8 @@ redirect_from:
 1. Gijbels, I., Herrmann, K., Sznajder, D. (2015). **Flexible and Dynamic Modeling of Dependencies via Copulas.** In: Antoniadis, A., Poggi, J.M., Brossat, X. (eds) *Modeling and Stochastic Learning for Forecasting in High Dimensions*. Lecture Notes in Statistics, vol 217, Springer, 117--146.
 {: reversed="reversed"}
 
+## Other
+1. Herrmann, K. (2020). **Conference report of the 2019 CRM-SSC address 'Tales of tails, tiles and ties in dependence modeling' by Johanna G. Nešlehová.** *Le Bulletin du CRM*, vol 26(1). Centre de recherches mathématiques, 14--14.
+1. Gijbels, I., Herrmann, K., Verhasselt, A. (2013). **Discussion on 'Large covariance estimation by thresholding principal orthogonal components'.** *Journal of the Royal Statistical Society, Series B*, vol 75. Wiley-Blackwell, 662--663.
+{: reversed="reversed"}
+
