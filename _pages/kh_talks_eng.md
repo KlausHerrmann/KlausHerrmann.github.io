@@ -13,11 +13,12 @@ redirect_from:
 - **On a class of distortions that transform GEV distributions into GEV distributions**. 2023 annual meeting of the Statistical Society of Canada, 31 May 2023, Ottawa, ON, Canada.
 
 ## Past
-1. **Copula diagonals, distortions and the asymptotic distribution of maxima** (*invited talk*). 2022 annual meeting of the Statistical Society of Canada, 01 June 2022. <span style="color:darkred">*Online conference due to COVID-19 pandemic*.</span>
+1. **LaTeX Avancé**. Atelier LaTeX de CaMUS, 23 February 2023, Sherbrooke, QC, Canada. <span style="color:lightgray">*Presentation aimed at graduate students*.</span>
+1. **Copula diagonals, distortions and the asymptotic distribution of maxima** (*invited talk*). 2022 annual meeting of the Statistical Society of Canada, 01 June 2022. <span style="color:lightgray">*Online conference due to COVID-19 pandemic*.</span>
 1. **Copula diagonals, distortions and the asymptotic distribution of maxima** (*invited talk*). 2022 Optimization Days, 16 May 2022, Montréal, QC, Canada.
-1. **Extendible dependence structures and their impact on extremes of random vectors** (*invited talk*). Symposium on Risk Modelling – SRM21, 26 November 2021. <span style="color:darkred">*Online conference due to COVID-19 pandemic*.</span>
-1. **Smooth bootstrapping of copula functionals** (*invited talk*). International Symposium on Nonparametric Statistics (ISNPS2020), Paphos, Cyprus. <span style="color:darkred">*Unable to deliver, meeting canceled due to COVID-19 outbreak*.</span>
-1. **Measuring risk of multivariate extreme outcomes under Archimedean dependence** (*invited talk*). 2020 annual meeting of the Statistical Society of Canada, Ottawa, ON, Canada. <span style="color:darkred">*Unable to deliver, meeting canceled due to COVID-19 outbreak*.</span>
+1. **Extendible dependence structures and their impact on extremes of random vectors** (*invited talk*). Symposium on Risk Modelling – SRM21, 26 November 2021. <span style="color:lightgray">*Online conference due to COVID-19 pandemic*.</span>
+1. **Smooth bootstrapping of copula functionals** (*invited talk*). International Symposium on Nonparametric Statistics (ISNPS2020), Paphos, Cyprus. <span style="color:lightgray">*Unable to deliver, meeting canceled due to COVID-19 outbreak*.</span>
+1. **Measuring risk of multivariate extreme outcomes under Archimedean dependence** (*invited talk*). 2020 annual meeting of the Statistical Society of Canada, Ottawa, ON, Canada. <span style="color:lightgray">*Unable to deliver, meeting canceled due to COVID-19 outbreak*.</span>
 1. **Univariate and multivariate extremes of extendible random vectors** (*invited talk*). KU Leuven joint statistics seminar series, 19 December 2019, Leuven, Belgium.
 1. **Smooth bootstrapping of copula functionals**. CMStatistics 2019 (ERCIM 2019), 14 December 2019, London, UK.
 1. **Copula diagonals and extremes of extendible random vectors** (*invited talk*). Quantact seminar Université Laval, 29 November 2019, Québec, QC, Canada.
