@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Upcoming
+## Upcoming - 1
 - **Distortions of multivariate GEV distributions and implications for risk management** (*invited talk*). Bernoulli-ims 11th World Congress in Probability and Statistics, 12 August 2024, Bochum, Germany.
 - **Transformations of stable tail dependence functions**. 2024 annual meeting of the Statistical Society of Canada, 02 June 2024, St. John's, Canada.
 
