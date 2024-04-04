@@ -70,3 +70,8 @@ redirect_from:
 <details><summary><b> 2012 </b></summary><ol>
 <li value="1"><b>Portfolio Value-at-Risk and Expected-Shortfall in a Copula Setup</b>. 20th Annual Conference of the Belgium Statistical Society, 25 October 2012, Liège, Belgium.</li>
 </ol></details>
+## Poster Presentations
+<ol>
+<li value="2"><b>Studying Sums of Dependent Random Variables via Copulas.</b> 25th Anniversary of LStat in Leuven, 13 December 2013, Leuven, Belgium.</li>
+<li value="1"><b>Portfolio Value-at-Risk and Expected-Shortfall in a Copula Setup.</b> Copulae in Mathematical and Quantitative Finance, 10 July 2012, Krakow, Poland.</li>
+</ol>
